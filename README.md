@@ -1,4 +1,4 @@
-Medical Insurance Premium Prediction
+Medical Insurance Premium Prediction (Multi Linear Regression)
 
 This repository contains a machine learning project focused on predicting medical insurance premiums based on various factors such as age, BMI, smoking habits, and more.
 
